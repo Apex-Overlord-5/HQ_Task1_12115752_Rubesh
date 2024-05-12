@@ -1,1 +1,1 @@
-"# HQ_Task1_12115752_Rubesh" 
+Welcome to my MERN-powered Chat Real-Time Application! 🚀 Leveraging JWT for secure authentication, Socket.IO for instant messaging, Axios for smooth API requests, CORS for seamless communication, and Mongoose for MongoDB integration. Get ready for a dynamic, interactive chatting experience like never before! 💬
